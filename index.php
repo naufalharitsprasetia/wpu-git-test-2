@@ -11,6 +11,10 @@
 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id obcaecati, ad nesciunt mollitia aspernatur numquam ab
     non saepe? Numquam voluptates rem laudantium aperiam earum, ad similique voluptatum esse amet maiores?</p>
 
+<ul>
+    <li>Sandhika Galih</li>
+</ul>
+
 <body>
 
 </body>
